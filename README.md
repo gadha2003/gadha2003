@@ -8,6 +8,11 @@
 📫 Reach me:  
 - LinkedIn: https://www.linkedin.com/in/gadha-suresh-142469268  
 
+### 🛠️ Skills
+- Programming: Python ,R 
+- ML: Scikit-learn, TensorFlow (learning)  
+- Data: Pandas, NumPy, Matplotlib, Seaborn  
+- Tools: Colab,Kaggle Notebook, Visual Studio,Jupyter Notebook  
 
 <!---
 gadha2003/gadha2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
