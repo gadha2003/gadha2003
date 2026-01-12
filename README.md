@@ -5,7 +5,7 @@
 🧠 Exploring NLP, Computer Vision, and ML Projects  
 💻 Actively building projects using Python, Pandas, Scikit-learn, TensorFlow  
 
-📫 Reach me:  
+📫 Reach me:   
 - LinkedIn: https://www.linkedin.com/in/gadha-suresh-142469268  
 
 ### 🛠️ Skills
