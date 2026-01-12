@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @gadha2003
-- 👀 I’m interested in Finanacial data analysis
-- 🌱 I’m currently learning Msc Integrated Data Science
-  
-- 📫 How to reach me -through linked In
-- 😄 Pronouns: she/her
+## Hi, I'm Gadha Suresh 👋  
+
+🎓 MSc Integrated Data Science student  
+📊 Interested in Data Science, Machine Learning ,NLP & Data Analytics  
+🧠 Exploring NLP, Computer Vision, and ML Projects  
+💻 Actively building projects using Python, Pandas, Scikit-learn, TensorFlow  
+
+📫 Reach me:  
+- LinkedIn: https://www.linkedin.com/in/gadha-suresh-142469268  
 
 
 <!---
